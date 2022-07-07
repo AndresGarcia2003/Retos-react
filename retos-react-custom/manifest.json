@@ -46,8 +46,8 @@
     "vtex.sticky-layout": "0.x",
     "vtex.add-to-cart-button": "0.x",
     "vtex.checkout-summary": "0.x",
-    "itgloberspartnercl.promo-envio-gratis": "0.x",
-    "itgloberspartnercl.cuenta-regresiva": "0.x"
+    "itgloberspartnercl.promo-envio-gratis": "0.x"
+    
   },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }

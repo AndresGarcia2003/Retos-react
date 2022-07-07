@@ -1,7 +1,7 @@
 { 
   "store.home": { 
     "blocks": [
-    "cuenta-regresiva",
+    // "cuenta-regresiva",
     "promo-envio-gratis", 
     "rich-text"
     ]
